@@ -8,8 +8,7 @@
 </ul>
 <h2>🚀 Skills</h2>
 <ul class="flex flex-col gap-2 list-disc pl-5 text-th-primary-dark text-th-primary-dark" depth="0">
-<li class="text-th-primary-dark" index="0"><strong>Programming Languages:</strong> Lua, Python, JavaScript, HTML, CSS</li>
-<li class="text-th-primary-dark" index="1"><strong>Tools and Frameworks:</strong> React, Node.js, Express, MongoDB, Git</li>
+<li class="text-th-primary-dark" index="0"><strong>Programming Languages:</strong> Lua, JavaScript, HTML</li>
 </ul>
 <h2>🎮 Fun Facts</h2>
 <ul class="flex flex-col gap-2 list-disc pl-5 text-th-primary-dark text-th-primary-dark" depth="0">
