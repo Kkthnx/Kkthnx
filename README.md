@@ -17,4 +17,3 @@
 <li class="text-th-primary-dark" index="1">When I'm not coding or gaming, I enjoy spending time with my family and friends.</li>
 <li class="text-th-primary-dark" index="2">I'm always looking for new challenges and opportunities to learn and grow as a developer.</li>
 </ul>
-<div class="whitespace-pre-wrap text-th-primary-dark break-words" style="word-break: break-word;">Feel free to customize this template to your liking, and add any icons or funny stuff that you think would make it even more awesome! Don't forget to use Markdown syntax to format your text and add images or links. Good luck, and have fun creating your new README!</div></div>
