@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/0094c3f6-65a4-432d-99f0-0e166d2cb83a" alt="Banner" width="100%" />
+  <img src="https://github.com/user-attachments/assets/0094c3f6-65a4-432d-99f0-0e166d2cb83a" alt="Kkthnx Logo" width="100%" />
   
   <h1 align="center">Hello, World! I'm Kkthnx 👋</h1>
 
@@ -10,7 +10,6 @@
 
 ---
 
-
 ### 👨‍💻 About Me
 
 Hello there! I'm **Joshua Russell** (aka **Kkthnx**), a Special Needs Assistant by day, and a passionate father and gamer by night. 
@@ -19,19 +18,31 @@ I was born and raised in **Indiana**, and I dedicate my downtime to my favorite 
 
 ---
 
+### 🏢 My Organizations
+<div align="center">
+  <a href="https://github.com/Kkthnx-Wow">
+    <img src="https://github.com/Kkthnx-Wow.png" width="100px" alt="Kkthnx-Wow" title="Kkthnx-Wow" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/Kkthnx-Stardew">
+    <img src="https://github.com/Kkthnx-Stardew.png" width="100px" alt="Kkthnx-Stardew" title="Kkthnx-Stardew" />
+  </a>
+</div>
+
+---
+
 ### 📊 My GitHub Stats
 <div align="center">
   <a href="https://github.com/Kkthnx">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kkthnx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=7aa2f7" alt="Kkthnx's Stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Kkthnx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=0e75b6&icon_color=0e75b6" alt="Kkthnx's Stats" />
   </a>
   
   <a href="https://github.com/Kkthnx">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kkthnx&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&currStreakLabel=7aa2f7" alt="Kkthnx's Streak" />
+    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Kkthnx&theme=tokyonight&hide_border=true&background=1a1b27&ring=0e75b6&currStreakLabel=0e75b6&fire=0e75b6" alt="Kkthnx's Streak" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kkthnx&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kkthnx&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=0e75b6" alt="Top Languages" />
 </div>
 
 ---
