@@ -1,28 +1,63 @@
-# Hello, World! I'm Kkthnx :wave:
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/0094c3f6-65a4-432d-99f0-0e166d2cb83a" alt="Banner" width="100%" />
+  
+  <h1 align="center">Hello, World! I'm Kkthnx 👋</h1>
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+  <a href="https://github.com/Kkthnx">
+    <img src="https://komarev.com/ghpvc/?username=Kkthnx&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+</div>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/kkthnx/count.svg" />
-</p>
+---
 
-## About Me
 
-Hello there 👋. I'm Joshua Russell, a Special Needs Assistant by day, father and gamer by night. I was born and raised in Indiana, and I love video games and coding World of Warcraft addons in my downtime as my hobby. My biggest accomplishment is coding KkthnxUI for World of Warcraft, which can be found on CurseForge website and on GitHub.
+### 👨‍💻 About Me
 
-## 🎂 More About Me
+Hello there! I'm **Joshua Russell** (aka **Kkthnx**), a Special Needs Assistant by day, and a passionate father and gamer by night. 
 
+I was born and raised in **Indiana**, and I dedicate my downtime to my favorite hobby: **Coding World of Warcraft Addons**. My biggest accomplishment is creating the popular **KkthnxUI**, which is available on [CurseForge](https://www.curseforge.com/wow/addons/kkthnxui) and [GitHub](https://github.com/Kkthnx-Wow/KkthnxUI).
+
+---
+
+### 📊 My GitHub Stats
+<div align="center">
+  <a href="https://github.com/Kkthnx">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kkthnx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=7aa2f7" alt="Kkthnx's Stats" />
+  </a>
+  
+  <a href="https://github.com/Kkthnx">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kkthnx&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&currStreakLabel=7aa2f7" alt="Kkthnx's Streak" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kkthnx&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7" alt="Top Languages" />
+</div>
+
+---
+
+### 🎂 Personal Info
 - **Birthday:** June 13th, 1989
 - **Hometown:** Indiana, USA
-- **Favorite Games:** Socom on the PlayStation 2, Call of Duty, and World of Warcraft
+- **Interests:** Blue & Silver aesthetics, Clean UI Design
 
-## 🚀 Skills
+### 🚀 Skills & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/World_of_Warcraft-000000?style=for-the-badge&logo=battle.net&logoColor=0074E0" alt="WoW" />
+</p>
 
-- **Programming Languages:** Lua, HTML, CSS
+### 🎮 Favorite Games
+| Game | Platform |
+| :--- | :--- |
+| **Socom** | PlayStation 2 |
+| **Call of Duty** | PC / Console |
+| **World of Warcraft** | PC |
 
-## 🎮 Fun Facts
+---
 
-- I've been playing video games since I was a kid, and I still love them to this day!
-- When I'm not coding or gaming, I enjoy spending time with my family and friends.
-- I'm always looking for new challenges and opportunities to learn and grow as a developer.
+<div align="center">
+  <i>"Always looking for new challenges and opportunities to learn and grow as a developer."</i>
+</div>
