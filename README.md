@@ -38,8 +38,11 @@ I was born and raised in **Indiana**, and I dedicate my downtime to my favorite 
   <a href="https://github.com/Kkthnx-Wow">
     <img src="https://github.com/Kkthnx-Wow.png" width="80px" alt="Kkthnx-Wow" title="Kkthnx-Wow" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/Kkthnx-Stardew">
+  <a href="https://github.com/Kkthnx-Stardew">
     <img src="https://github.com/Kkthnx-Stardew.png" width="80px" alt="Kkthnx-Stardew" title="Kkthnx-Stardew" />
+  </a>
+<a href="https://github.com/Kkthnx-Necesse">
+    <img src="https://github.com/Kkthnx-Necesse.png" width="80px" alt="Kkthnx-Stardew" title="Kkthnx-Necesse" />
   </a>
 </div>
 
