@@ -10,21 +10,13 @@
 </div>
 
 <p align="center">
-  <a href="https://kkthnx.com">
-    <img src="https://img.shields.io/badge/Website-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
-  </a>
+  <a href="https://kkthnx.com"><img src="https://img.shields.io/badge/Website-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
   &nbsp;
-  <a href="https://www.curseforge.com/members/kkthnx/projects">
-    <img src="https://img.shields.io/badge/CurseForge-0e75b6?style=for-the-badge&logo=curseforge&logoColor=white" alt="CurseForge"/>
-  </a>
+  <a href="https://www.curseforge.com/members/kkthnx/projects"><img src="https://img.shields.io/badge/CurseForge-0e75b6?style=for-the-badge&logo=curseforge&logoColor=white" alt="CurseForge"/></a>
   &nbsp;
-  <a href="https://twitch.tv/kkthnxtv">
-    <img src="https://img.shields.io/badge/Twitch-0e75b6?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
-  </a>
+  <a href="https://twitch.tv/kkthnxtv"><img src="https://img.shields.io/badge/Twitch-0e75b6?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/></a>
   &nbsp;
-  <a href="https://youtube.com/@KKTHNXTV">
-    <img src="https://img.shields.io/badge/YouTube-0e75b6?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
+  <a href="https://youtube.com/@KKTHNXTV"><img src="https://img.shields.io/badge/YouTube-0e75b6?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 </p>
 
 ---
