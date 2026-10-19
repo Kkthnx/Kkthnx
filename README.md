@@ -48,7 +48,7 @@ Independent developer specializing in Lua 5.1 modularity and World of Warcraft U
 ### Connect With Me
 *   **Battle.net:** `Kkthnx#1105`
 *   **Discord:** `Kkthnx`
-*   **Community Server:** [Glitch Haven](https://discord.gg/glitchhaven)
+*   **Community Server:** [Glitch Haven](https://discord.gg/FaVGhTYmck)
 
 ---
 
